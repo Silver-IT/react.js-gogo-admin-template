@@ -1,0 +1,27 @@
+{
+  "name": "dore-jquery",
+  "version": "2.3.0",
+  "description": "Dore JQuery Admin Theme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jquery",
+    "Admin",
+    "Dore"
+  ],
+  "author": "ColoredStrategies",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^4.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-terser": "^1.1.7",
+    "gulp-useref": "^3.1.6",
+    "gulp-wait": "0.0.2"
+  }
+}

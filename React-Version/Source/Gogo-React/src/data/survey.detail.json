@@ -1,0 +1,121 @@
+{
+    "data": {
+        "title": "Developer Survey",
+        "detail":"As a software professional, you are an innovator, problem solver, researcher, and a creative. Your job is to take big ideas and make them a reality. With the right support, the possibilities are endless.<br/><br/>When roadblocks are removed and you’re allowed do your best work, you change the world.",
+        "category" : "Development",
+        "createDate" : "22.09.2018",
+        "status" : "ACTIVE",
+        "label": "EDUCATION",
+        "labelColor": "secondary",
+        "id": 2,
+        "questions": [
+            {
+                "id": 0,
+                "title": "Name",
+                "question": "What is your name?",
+                "answerType": 1
+            },
+            {
+                "id": 1,
+                "title": "Age",
+                "question": "How old are you?",
+                "answerType": 3,
+                "answers": [
+                    {
+                        "id": 0,
+                        "label": "18-24"
+                    },
+                    {
+                        "id": 1,
+                        "label": "24-30"
+                    },
+                    {
+                        "id": 2,
+                        "label": "30-40"
+                    },
+                    {
+                        "id": 3,
+                        "label": "40-50"
+                    },
+                    {
+                        "id": 4,
+                        "label": "50+"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Gender",
+                "question": "What is your gender?",
+                "answerType": 3,
+                "answers": [
+                    {
+                        "id": 0,
+                        "label": "Male"
+                    },
+                    {
+                        "id": 1,
+                        "label": "Female"
+                    },
+                    {
+                        "id": 2,
+                        "label": "Other"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Work",
+                "question": "What is your employment status?",
+                "answerType": 3,
+                "answers": [
+                    {
+                        "id": 0,
+                        "label": "Employed for wages"
+                    },
+                    {
+                        "id": 1,
+                        "label": "Self-employed"
+                    },
+                    {
+                        "id": 2,
+                        "label": "Out of work and looking for work"
+                    },
+                    {
+                        "id": 3,
+                        "label": "Retired"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Coding",
+                "question": "What programming languages do you use?",
+                "answerType": 2,
+                "answers": [
+                    {
+                        "id": 0,
+                        "label": "Python"
+                    },
+                    {
+                        "id": 1,
+                        "label": "JavaScript"
+                    },
+                    {
+                        "id": 2,
+                        "label": "PHP"
+                    },
+                    {
+                        "id": 3,
+                        "label": "Java"
+                    },
+                    {
+                        "id": 4,
+                        "label": "C#"
+                    }
+                ]
+            }
+        ]
+    }
+    
+}

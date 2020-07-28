@@ -1,0 +1,32 @@
+{
+    "data": [
+      {
+        "title": "Designer Survey",
+        "category" : "Workplace",
+        "createDate" : "22.08.2018",
+        "status" : "ACTIVE",
+        "label": "NEW FRAMEWORK",
+        "labelColor": "primary",
+        "id": 1
+      },
+      {
+        "title": "Developer Survey",
+        "category" : "Development",
+        "createDate" : "22.09.2018",
+        "status" : "ACTIVE",
+        "label": "EDUCATION",
+        "labelColor": "secondary",
+        "id": 2
+      },
+      {
+        "title": "Backend Survey",
+        "category" : "Hardware",
+        "createDate" : "15.09.2018",
+        "status" : "COMPLETED",
+        "label": "PERSONAL",
+        "labelColor": "info",
+        "id": 3
+      }
+    ]
+  }
+  
