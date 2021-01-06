@@ -6,7 +6,7 @@
   "dependencies": {
     "@glidejs/glide": "^3.4.1",
     "availity-reactstrap-validation": "^2.6.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "2.9.3",
     "classnames": "2.2.6",
     "formik": "^2.1.4",
