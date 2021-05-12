@@ -7,7 +7,7 @@
     "@glidejs/glide": "^3.4.1",
     "availity-reactstrap-validation": "^2.6.1",
     "axios": "^0.19.2",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "firebase": "^7.14.6",
     "formik": "^2.1.4",
